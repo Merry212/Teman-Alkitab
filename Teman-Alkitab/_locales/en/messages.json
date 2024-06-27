@@ -1,0 +1,89 @@
+{
+    "AppName": {
+        "message": "Teman Alkitab"
+    },
+    "AppDesc": {
+        "message": "Ayat Alkitab Harian ."
+    },
+    "Months": {
+        "message": "Jan,Feb,Mar,Apr,Mie,Jun,Jul,Agu,Sep,Okt,Nov,Des"
+    },
+    "Greetings0": {
+        "message": "Selamat Pagi, Damai Tuhan Besertamu!"
+    },
+    "Greetings1": {
+        "message": "Selamat Siang Yang Dikasihani Tuhan!"
+    },
+    "Greetings2": {
+        "message": "Selamat Malam, Jangan engkau Khawatir Tuhan BesertaMU!"
+    },
+    "Greetings3": {
+        "message": "Selamat Malam, Ucapkan Syukur Buat Hari Ini !"
+    },
+    "Settings": {
+        "message": "Pengaturan"
+    },
+    "Background": {
+        "message": "Walpaper"
+    },
+    "UseDefaultBg": {
+        "message": "Video Awal"
+    },
+    "PickVideo": {
+        "message": "Pilih Video dari Galeri"
+    },
+    "PickPhoto": {
+        "message": "Pilih Foto dari Galeri"
+    },
+    "BackgroundCover": {
+        "message": "Cover Walpaper"
+    },
+    "Opacity": {
+        "message": "Ukuran Kejelasan Walpaper"
+    },
+    "BgVideoFade": {
+        "message": "Bayangan"
+    },
+    "BgVideoFadeHint": {
+        "message": "Video tidak berulang-ulang"
+    },
+    "Clock": {
+        "message": "Jam"
+    },
+    "ClockFormat": {
+        "message": "Format"
+    },
+    "ClockSecond": {
+        "message": "Detik"
+    },
+    "ShowVersion": {
+        "message": "Tunjukkan Versi Alkitab"
+    },
+    "ShowCopy": {
+        "message": "Tunjukkan Icon Copy"
+    },
+    "TextColor": {
+        "message": "Warna Teks"
+    },
+    "ShadowColor": {
+        "message": "Warna Bayangan"
+    },
+    "CopyTooltip": {
+        "message": "Copy ayat ini"
+    },
+    "DailyVerse": {
+        "message": "Ayat Harian"
+    },
+    "BibleVersion": {
+        "message": "Versi Alkitab"
+    },
+    "Oss1": {
+        "message": "Ekstensi ini gratis dan dapat digunakan sebagaimana mestinya, By Yogie W Saragih From Indonesia And Dat From Vietnam."
+    },
+    "Oss2": {
+        "message": "Kemuliaan kepada Tuhan Yesus."
+    },
+    "VerseSource": {
+        "message": "Ayat Alkitab diambil dari https://alkitab.mobi/renungan/rh/."
+    }
+}
